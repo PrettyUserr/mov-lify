@@ -222,7 +222,8 @@ header.shadow .logo{
     margin-left: auto;
     margin-right: auto;
     margin-top: 2rem;
-    overflow: hidden;
+    overflow: hidden; 
+    /* fixed an overflow bug */
 }
 .coming-container .box-img:hover {
     transform: translateY(10px);
