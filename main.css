@@ -152,7 +152,7 @@ header.shadow .logo{
  
 }
 .home-text h1{
-    color: var(--main-color);
+    color: var(--bg-color);
     font-size: 4rem;
     font-weight: 700;
     /* margin-bottom: 1rem; */
